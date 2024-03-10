@@ -1,0 +1,28 @@
+.injected-text {
+
+}
+[type='checkbox'] {
+ margin: 10px 0px 15px 0px;
+
+}
+#cat-photo_form {
+ background-color: green;;
+} 
+h2 {
+background-color: blue;
+}
+.lobster-two-regular-italic {
+  font-family: "Lobster Two", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+}
+.thick-green-border {
+  border-color: green;
+  border-width:5px;
+  border-style: solid;
+  border-radius: 50%;
+}
+.lists {background-color: silver;}
+body{
+    background: khaki;
+}
